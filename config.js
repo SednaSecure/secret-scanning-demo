@@ -2,5 +2,5 @@ module.exports = {
   apiUrl: "https://api.example.com",
 
   // DEMO ONLY - fake credential
-  apiKey: "ghp_DEMO_NOT_A_REAL_SECRET_1234567890"
+  apiKey: "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"
 };
